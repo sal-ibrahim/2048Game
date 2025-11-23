@@ -1,0 +1,123 @@
+# depslib dependency file v1.0
+1716488262 source:c:i_2048\2048main.cpp
+	<allegro5/allegro.h>
+	<allegro5/allegro_native_dialog.h>
+	<allegro5/allegro_font.h>
+	<allegro5/allegro_ttf.h>
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	"2048.h"
+
+1716489264 c:i_2048\2048.h
+
+1716333189 source:c:i_2048databasefunctions.cpp
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	"2048.h"
+
+1716330965 source:c:i_2048gameover.cpp
+	<stdio.h>
+	"2048.h"
+
+1716486671 source:c:i_2048allegro.cpp
+	<stdio.h>
+	<allegro5/allegro.h>
+	<allegro5/allegro_font.h>
+	<allegro5/allegro_ttf.h>
+	<allegro5/allegro_native_dialog.h>
+	"2048.h"
+
+1716571343 source:c:\i_2048allegro.cpp
+	<stdio.h>
+	<allegro5/allegro.h>
+	<allegro5/allegro_font.h>
+	<allegro5/allegro_ttf.h>
+	<allegro5/allegro_native_dialog.h>
+	<allegro5/allegro_primitives.h>
+	"i_2048.h"
+
+1716571727 c:i_summative_2048.h
+	<allegro5/allegro.h>
+	<allegro5/allegro_native_dialog.h>
+	<allegro5/allegro_font.h>
+	<allegro5/allegro_ttf.h>
+	<allegro5/allegro_image.h>
+	<allegro5/allegro_primitives.h>
+
+1716572277 source:c:i_summative_2048main.cpp
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<allegro5/allegro.h>
+	<allegro5/allegro_native_dialog.h>
+	<allegro5/allegro_font.h>
+	<allegro5/allegro_ttf.h>
+	<allegro5/allegro_image.h>
+	<allegro5/allegro_primitives.h>
+	"i_2048.h"
+
+1716490666 source:c:test.cpp
+	<stdio.h>
+	"Summative_2048.h"
+
+1716490731 source:c:test2.cpp
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	"i_2048.h"
+
+1716570777 source:c:i_2048gameover.cpp
+	<stdio.h>
+	"i_2048.h"
+
+1716490731 source:c:i_databasefunctions.cpp
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	"i_2048.h"
+
+1717786194 source:c:i_2048gameover.cpp
+	<stdio.h>
+	"i_2048.h"
+
+1717863847 c:i_2048.h
+	<allegro5/allegro.h>
+	<allegro5/allegro_native_dialog.h>
+	<allegro5/allegro_font.h>
+	<allegro5/allegro_ttf.h>
+	<allegro5/allegro_image.h>
+	<allegro5/allegro_primitives.h>
+
+1717784275 source:c:i_2048allegro.cpp
+	<stdio.h>
+	<allegro5/allegro.h>
+	<allegro5/allegro_font.h>
+	<allegro5/allegro_ttf.h>
+	<allegro5/allegro_native_dialog.h>
+	<allegro5/allegro_primitives.h>
+	"i_2048.h"
+
+1717863962 source:c:i_2048main.cpp
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<allegro5/allegro.h>
+	<allegro5/allegro_native_dialog.h>
+	<allegro5/allegro_font.h>
+	<allegro5/allegro_ttf.h>
+	<allegro5/allegro_image.h>
+	<allegro5/allegro_primitives.h>
+	"i_2048.h"
+
+1717863846 source:c:i_databasefunctions.cpp
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	"i_2048.h"
+
+1717787180 source:c:i_2048filefunctions.cpp
+	<stdio.h>
+	"i_2048.h"
+
